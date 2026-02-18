@@ -47,4 +47,3 @@ I believe in documenting the journey. Every error, every success, every lesson.
 ---
 
 *"Building my future, one commit at a time."* 🚀
-```
