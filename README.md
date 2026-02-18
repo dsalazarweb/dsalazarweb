@@ -39,6 +39,10 @@ I believe in documenting the journey. Every error, every success, every lesson.
 💰 Total AWS spend so far: $0.03 USD  
 📅 Days coding: 1 / 182
 
+## 🔥 Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsalazarweb&theme=dark)](https://git.io/streak-stats)
+
 ## 📫 Connect
 
 - LinkedIn: [Diego Salazar](https://linkedin.com/in/diego-salazar-a77a54100)
