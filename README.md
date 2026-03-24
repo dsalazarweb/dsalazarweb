@@ -29,6 +29,17 @@ Not a course sprint. A real skill-building journey with hands-on labs, real cost
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
+ 
+## 🖥️ Workstation
+ 
+| Period | Environment |
+|--------|-------------|
+| Feb 9 – Mar 21, 2026 | Linux Mint 22.3 "Zena" |
+| Mar 21, 2026 → | Windows 10 Pro 22H2 + WSL2 Ubuntu 24.04 LTS |
+ 
+> All labs are executed inside WSL2. Commands, scripts and documentation remain fully compatible.
+ 
+---
 
 ## 🎯 2026 Goals
 
